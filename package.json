@@ -1,0 +1,29 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Excel-spizdil",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Advisorrry/exel-lul-spizdil.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Advisorrry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Advisorrry/exel-lul-spizdil/issues"
+  },
+  "homepage": "https://github.com/Advisorrry/exel-lul-spizdil#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
